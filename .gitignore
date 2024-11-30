@@ -1,0 +1,12 @@
+# Ignorar archivos CSV
+*.csv
+
+# Ignorar archivos NetCDF
+*.nc
+
+# Ignorar archivos de imagen
+*.jpg
+*.png
+
+# Ignorar archivos de modelo en formato HDF5
+*.h5
